@@ -10,4 +10,4 @@ $ORIGIN nabilbank.com.
 khaltisupport        IN A     10.71.128.86
 testchannelmanager   IN A     10.250.130.153
 api		     IN A     172.31.6.41
-ops          IN A     8.8.8.8
+ops          IN A     8.8.8.88
